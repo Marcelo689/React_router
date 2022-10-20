@@ -1,0 +1,4 @@
+.postsRecomendados{
+    display: flex;
+    flex-wrap: wrap;
+}
